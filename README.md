@@ -18,7 +18,7 @@ To create a stream factory,
 var roundStream = require( 'flow-round' );
 
 // Create a new factory:
-var rStream = round();
+var rStream = roundStream();
 ```
 
 ### rStream.stream()
